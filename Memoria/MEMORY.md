@@ -1,0 +1,6 @@
+- [Sin acciones destructivas sin preguntar](no-destructive-actions-without-asking.md) — no borrar, commitear, instalar ni cambios fuertes sin confirmación
+- [Opciones gratuitas/locales](criss-prefers-free-local-options.md) — sin créditos de pago; priorizar proveedores gratis o locales
+- [Jira rules](jira-rules.md) — read-only unless asked; formal detailed comments (see CLAUDE.md Reglas del proyecto jira)
+- [Mejoras con horario fijo](worklog-improvements-fixed.md) — al reajustar time tracking no mover los worklogs de tickets de mejora
+- [Memoria en Obsidian](memoria-en-obsidian.md) — memoria global única en bóveda Obsidian; enlazar todo con [[...]]
+- [Diario, temas y memoria](diario-y-memoria-automatica.md) — registrar diario + consolidar en Claude/Temas; buscar contexto primero en Temas/_indice.md; ahorrar tokens

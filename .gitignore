@@ -1,0 +1,12 @@
+# Estado local de Obsidian (cambia en cada PC)
+.obsidian/workspace*.json
+.obsidian/cache
+.trash/
+
+# Nunca subir secretos
+.env
+*.env
+*token*
+*secret*
+
+.DS_Store
