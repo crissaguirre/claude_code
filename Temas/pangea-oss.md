@@ -1,6 +1,6 @@
 ---
 tema: pangea-oss
-actualizado: 2026-09-29
+actualizado: 2026-10-01
 ---
 # Pangeaco OSS / Jira
 
@@ -17,6 +17,7 @@ actualizado: 2026-09-29
 - Changes cerrados recientes: MDS-1111 (trazabilidad PangIA), MDS-399 (bajas SOM), MDS-396 (Modelo de Provisión 5).
 - **TB-35** Improvement · En ejecución: apoyo a Ademir en la revisión de casos de error MIF (2026-09-29, 30m).
 - Backlog: ITPR56-2, -3 y -5 (alta/baja ISP y gestores, cambio de VLANs) e ITPR65-11 (XGSPON Nokia).
+- Repo `~/WorkSpaceFront/wfm-ms-ne-oax-workorder-management-oss` (WFM workorder, Spring WebFlux + R2DBC + MapStruct, hexagonal): se añadió el endpoint `workforceResource/byUserId/{userId}` (2026-10-01, sin commit).
 - MDS-209 y MDS-135 figuran en "Rollback Realizado" (siguen abiertos).
 
 ## Reglas
@@ -25,4 +26,5 @@ actualizado: 2026-09-29
 
 ## Historial (diarios)
 - [[2026-09-29]] TB-35 creado (errores MIF con Ademir); ITPR98-5 cerrado.
+- [[2026-10-01]] WFM: endpoint workforceResource/byUserId; error MapStruct del IDE.
 <!-- añadir: - [[AAAA-MM-DD]] resumen de una línea -->
